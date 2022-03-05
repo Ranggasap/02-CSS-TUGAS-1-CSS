@@ -1,0 +1,16 @@
+.judul img {
+    width: 25px;
+    height: 25px;
+}
+
+.judul {
+    color: green;
+}
+
+.subJudul {
+    color: red;
+}
+
+p {
+    color: blue;
+}
